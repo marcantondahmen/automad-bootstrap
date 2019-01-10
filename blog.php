@@ -8,7 +8,7 @@
 		context: @{ showPagesBelow },
 		filter: @{ ?filter },
 		search: @{ ?search },
-		sort: @{ sortPages },
+		sort: 'date desc',
 		template: @{ templateFilter }
 	} @>
 	
