@@ -8,7 +8,8 @@
 		context: @{ showPagesBelow },
 		filter: @{ ?filter },
 		search: @{ ?search },
-		sort: @{ sortPages }
+		sort: @{ sortPages },
+		template: @{ templateFilter }
 	} @>
 	
 	<@ if not @{ checkboxHideTeaser } @>
