@@ -4,7 +4,9 @@ A responsive multi-purpose theme for the [Automad](http://automad.org) CMS based
 
 Check out the demo page [here](https://bootstrap.dev.automad.org).
 
-![](https://bitbucket.org/marcantondahmen/automad-bootstrap/raw/default/images/project_layout_1.png)
+![](https://bootstrap.dev.automad.org/shared/screenshot-1.png)
+
+![](https://bootstrap.dev.automad.org/shared/screenshot-2.png)
 
 ---
 
