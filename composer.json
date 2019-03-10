@@ -1,6 +1,6 @@
 {
 	"name": "dahmen/automad-bootstrap",
-	"description": "A responsive multi-purpose theme for the Automad CMS based on the Bootstrap framework",
+	"description": "A responsive multi-purpose theme for the Automad CMS based on the Bootstrap framework.",
 	"type": "automad-package",
 	"keywords": ["theme"],
 	"authors": [
