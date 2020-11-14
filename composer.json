@@ -11,9 +11,9 @@
 	],
 	"license": "MIT",
 	"require": {
-		"automad/package-installer": "^1.1",
+		"automad/package-installer": "^1.1 || dev-master",
 		"components/jquery": "^3.3",
 		"twbs/bootstrap": "^4.2",
-		"automad/meta-tags": "^1.1 || dev-default"
+		"automad/meta-tags": "^1.1 || dev-master"
 	}
 }
