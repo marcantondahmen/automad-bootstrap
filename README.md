@@ -1,7 +1,6 @@
 # Automad Bootstrap Theme
 
 A responsive multi-purpose theme for the [Automad](http://automad.org) CMS based on the [Bootstrap](https://getbootstrap.com) framework.
-Check out the demo page and all available templates [here](https://bootstrap.dev.automad.org).
 
 ![](https://raw.githubusercontent.com/marcantondahmen/media-files/master/themes/bootstrap/bootstrap-1.webp)
 
@@ -47,4 +46,3 @@ You can use a regex for the `templateFilter` variable to filter a pagelist by th
 ### Open Graph Images
 
 Title and description are automatically used for open graph tags to be used as preview when sharing a page. You can also define a pattern to be used for the preview image used as the value for the `og:image` property. A good pattern would be `*.jpg, *.png, /shared/og.png`. With this pattern, the first JPG or PNG image would be used as preview image while using a file called `og.png` in the shared files section as a fallback for pages without any image.
-
