@@ -1,6 +1,7 @@
 # Automad Bootstrap Theme
 
 A responsive multi-purpose theme for the [Automad](http://automad.org) CMS based on the [Bootstrap](https://getbootstrap.com) framework.
+Check out the demo page and all available templates [here](https://bootstrap.dev.automad.org).
 
 ![](https://raw.githubusercontent.com/marcantondahmen/media-files/master/themes/bootstrap/bootstrap-1.webp)
 
